@@ -1,0 +1,12 @@
+[submodule "TimerPlusKanbanBoard"]
+	path = TimerPlusKanbanBoard
+	url = git@github.com:alanjuniorn8/TimerPlusKanbanBoard.git
+[submodule "NextShop"]
+	path = NextShop
+	url = git@github.com:alanjuniorn8/NextShop.git
+[submodule "ReactWallet"]
+	path = ReactWallet
+	url = git@github.com:alanjuniorn8/ReactWallet.git
+[submodule "ReactForum"]
+	path = ReactForum
+	url = git@github.com:alanjuniorn8/ReactForum.git
