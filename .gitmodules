@@ -1,15 +1,15 @@
 [submodule "TimerPlusKanbanBoard"]
 	path = TimerPlusKanbanBoard
-	url = git@github.com:alanjuniorn8/TimerPlusKanbanBoard.git
+	url = git@github.com:alanjuniorn8/TimerPlusKanbanBoard_ReactMicroAppsSubMoldule.git
 [submodule "NextShop"]
 	path = NextShop
-	url = git@github.com:alanjuniorn8/NextShop.git
+	url = git@github.com:alanjuniorn8/NextShop_ReactMicroAppsSubMoldule.git
 [submodule "ReactWallet"]
 	path = ReactWallet
-	url = git@github.com:alanjuniorn8/ReactWallet.git
+	url = git@github.com:alanjuniorn8/ReactWallet__ReactMicroAppsSubMoldule.git
 [submodule "ReactForum"]
 	path = ReactForum
-	url = git@github.com:alanjuniorn8/ReactForum.git
+	url = git@github.com:alanjuniorn8/ReactForum_ReactMicroAppsSubMoldule.git
 [submodule "BabelAndWebpack"]
 	path = BabelAndWebpack
-	url = git@github.com:alanjuniorn8/BabelAndWebpack.git
+	url = git@github.com:alanjuniorn8/BabelAndWebpack_ReactMicroAppsSubMoldule.git
