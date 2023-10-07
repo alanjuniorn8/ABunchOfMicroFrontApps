@@ -10,3 +10,6 @@
 [submodule "ReactForum"]
 	path = ReactForum
 	url = git@github.com:alanjuniorn8/ReactForum.git
+[submodule "BabelAndWebpack"]
+	path = BabelAndWebpack
+	url = git@github.com:alanjuniorn8/BabelAndWebpack.git
